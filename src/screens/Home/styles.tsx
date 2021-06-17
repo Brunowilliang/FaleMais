@@ -32,13 +32,27 @@ export const SelectWrapper = styled.View`
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 24px;
-
+  margin-bottom: 20px;
 `;
 
 export const SelectContent = styled.View`
   width: 43%;
 `;
+
+export const Input = styled.TextInput`
+  width: 100%;
+  padding: 16px 18px;
+  font-size: ${RFValue(14)}px;
+  font-family: ${({ theme }) => theme.fonts.regular};
+  color: ${({ theme }) => theme.colors.text};
+  background-color: ${({ theme }) => theme.colors.shape} ;
+  border-radius: 5px;
+`;
+
+export const ContainerButton = styled.View`
+  margin-top: 20px;
+`;
+
 
 export const ContentPlans = styled.ScrollView.attrs({
   horizontal: true,
@@ -48,3 +62,6 @@ export const ContentPlans = styled.ScrollView.attrs({
   showsHorizontalScrollIndicator: false,
   })`
 `;
+
+
+
