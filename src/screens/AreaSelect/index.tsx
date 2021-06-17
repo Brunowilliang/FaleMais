@@ -6,7 +6,6 @@ import { areas } from '../../utils/areas';
 import { Container, Header, Title, Area, Icon, Name, Separator, Footer } from './styles';
 
 interface Area {
-  key: string;
   name: string;
 }
 
@@ -32,11 +31,11 @@ export function AreaSelect({ area, setArea, closeAreaSelect }: Props){
       <FlatList
         data={areas}
         style={{ flex: 1, width: '100%'}}
-        keyExtractor={(item) => item.key}
+        keyExtractor={(item) => item.name}
         renderItem={({ item }) => (
           <Area
             onPress={() => handleAreaSelect(item)}
-            isActive={area.key === item.key}
+            isActive={area.name === item.name}
           >
             <Icon name={item.icon} />
             <Name>{item.name}</Name>
