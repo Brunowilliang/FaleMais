@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical-1.png" height="150px" alt="Fale Mais" />
+    <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical-1.png" height="125px" alt="Fale Mais" />
   </a>
 </p>
 
