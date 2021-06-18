@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=FF872C&style=for-the-badge"/>
 </div>
 
-## Qual liguagem utilizamos utilizamos
-
 ---
 
 ### 🎲 Rodando o aplicativo
