@@ -17,7 +17,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Brunowilliang/FaleMais.git>
+$ git clone https://github.com/Brunowilliang/FaleMais.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd FaleMais
@@ -34,6 +34,12 @@ Espere carregar no terminal e inicie no seu simulador 🚀
 
 ---
 
+## 🔥 Layout
+
+O layout do projeto você pode acessar [aqui](https://www.figma.com/file/0CUZfpJjEERpSCMX1VyrbC/FaleMais?node-id=41723%3A259)
+
+---
+
 ## 🛠 Tecnologias utilizada
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -42,6 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [Styled Components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Figma](www.figma.com)
 
 ---
 
