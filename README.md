@@ -1,7 +1,7 @@
 <!-- # FaleMais -->
 
 <p align="center">
-    <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical.png" alt="Fale Mais" />
+    <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical.png" height="70px" alt="Fale Mais" />
   </a>
 </p>
 
