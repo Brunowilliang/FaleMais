@@ -63,5 +63,13 @@ export const ContentPlans = styled.ScrollView.attrs({
   })`
 `;
 
+export const Error = styled.Text`
+  margin-top: 30px;
+  text-align: center;
+  font-family: ${({ theme }) => theme.fonts.bold};
+  font-size: ${RFValue(17)}px;
+  color: ${({ theme }) => theme.colors.secondary};
+`;
+
 
 

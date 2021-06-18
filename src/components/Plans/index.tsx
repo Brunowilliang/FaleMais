@@ -6,7 +6,6 @@ import { Container, Header, Footer, Content, Price, Span, SpanPrice } from './st
 import Plan30 from '../../assets/plan30.svg';
 import Plan60 from '../../assets/plan60.svg';
 import Plan120 from '../../assets/plan120.svg';
-import { useTheme } from 'styled-components';
 
 const icon = {
   '30': <Plan30 width={RFValue(184)} height={RFValue(45)}/>,
@@ -22,7 +21,6 @@ interface Props {
 
 
 export function Plans({ type, price, spanPrice }: Props){
-  const theme = useTheme();
   return (
     <Container>
       <Header >
@@ -32,7 +30,7 @@ export function Plans({ type, price, spanPrice }: Props){
 
       </Header>
       <Content>
-        <Price>R$ {price}</Price>
+        <Price>{price}</Price>
       </Content>
       <Footer>
         <Span>Sem Fale Mais</Span>
