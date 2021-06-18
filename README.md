@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Expo&message=~41.0.1&color=FF872C&style=for-the-badge&logo=expo"/>
-  <img src="https://img.shields.io/static/v1?label=React Native&message=~41.0.1&color=FF872C&style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=ReactNative&message=~41.0.1&color=FF872C&style=for-the-badge&logo=react"/>
 
 </div>
 
