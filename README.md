@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="padding: 100px;">
     <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical-1.png" height="125px" alt="Fale Mais" />
   </a>
 </p>
