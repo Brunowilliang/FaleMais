@@ -1,9 +1,8 @@
-<p align="center" style="padding: 100px;">
-    <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical-1.png" height="125px" alt="Fale Mais" />
-  </a>
+<p align="center">
+  <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical-1.png" height="125px" alt="Fale Mais" />
 </p>
 
-<p align="center">A melhor experiência em telefonia nacional 🚀</p>
+<h5 align="center">A melhor experiência em telefonia nacional 🚀</h5>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Expo&message=~41.0.1&color=FF872C&style=for-the-badge&logo=expo"/>
