@@ -12,7 +12,7 @@
 
 ---
 
-## 🎲 Rodando o aplicativo
+### 🎲 Rodando o aplicativo
 
 ```bash
 # Clone este repositório
@@ -33,13 +33,13 @@ Espere carregar no terminal e inicie no seu simulador 🚀
 
 ---
 
-## 🔥 Layout
+### 🔥 Layout
 
 O layout do projeto você pode acessar [aqui](https://www.figma.com/file/0CUZfpJjEERpSCMX1VyrbC/FaleMais?node-id=41723%3A259)
 
 ---
 
-## 🛠 Tecnologias utilizadas
+### 🛠 Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -51,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 🙋🏼‍♂️ Autor
+### 🙋🏼‍♂️ Autor
 
 <a href="https://linkedin.com/in/brunowilliang">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41432581?v=4" width="100px;" alt=""/>
