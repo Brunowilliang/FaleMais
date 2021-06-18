@@ -39,7 +39,7 @@ O layout do projeto você pode acessar [aqui](https://www.figma.com/file/0CUZfpJ
 
 ---
 
-## 🛠 Tecnologias utilizada
+## 🛠 Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
