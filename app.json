@@ -1,12 +1,27 @@
 {
-  "name": "rentx",
-  "displayName": "rentx",
+  "name": "falemais",
+  "displayName": "Fale Mais",
   "expo": {
-    "name": "rentx",
-    "slug": "rentx",
+    "name": "Fale Mais",
+    "slug": "falemais",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5636D3"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/foreground.png",
+        "backgroundImage": "./assets/background.png",
+        "backgroundColor": "#5636D3"
+      }
+    },
+    "description": "a melhor experiência em telefonia nacional"
   }
 }
