@@ -1,7 +1,7 @@
 <!-- # FaleMais -->
 
 <p align="center">
-    <img src="https://goagenda.app:2083/cpsess7990276988/viewer/home2%2fgoagenda%2fpublic_html%2fimagens/icon_vertical.png" height="150" alt="Fale Mais" />
+    <img src="https://goagenda.app:2083/cpsess7990276988/viewer/home2%2fgoagenda%2fpublic_html%2fimagens/icon_vertical.png" alt="Fale Mais" />
   </a>
 </p>
 
