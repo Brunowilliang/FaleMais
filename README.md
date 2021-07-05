@@ -2,7 +2,7 @@
   <img src="https://www.goagenda.app/wp-content/uploads/2021/06/icon_vertical-1.png" height="125px" alt="Fale Mais" />
 </p>
 
-<h5 align="center">A melhor experiência em telefonia nacional 🚀</h5>
+<h2 align="center" style="margin-top: 30px; margin-bottom: 30px" >A melhor experiência em telefonia nacional 🚀</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Expo&message=~41.0.1&color=FF872C&style=for-the-badge&logo=expo"/>
@@ -62,5 +62,3 @@ Feito com ❤️ por Bruno Garcia!
 
 [![Twitter Badge](https://img.shields.io/badge/-@brunowilliang_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/brunowilliang_)](https://twitter.com/brunowilliang_) [![Linkedin Badge](https://img.shields.io/badge/-Bruno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunowilliang/)](https://www.linkedin.com/in/brunowilliang/)
 [![Gmail Badge](https://img.shields.io/badge/-brunowilliang@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunowilliang@icloud.com)](mailto:tgmarinho@gmail.com)
-
----

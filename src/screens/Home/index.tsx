@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import { StatusBar, Modal, Alert, Keyboard } from 'react-native';
 import { useTheme } from 'styled-components/native';
 import { RFValue } from 'react-native-responsive-fontsize';
+import 'intl';
+import 'intl/locale-data/jsonp/pt-BR';
 
 import { tarifasOrigemDestino, formatNumber } from '../../utils/areas';
 
